@@ -1,0 +1,1 @@
+set ffmpeg=.\ffmpeg
