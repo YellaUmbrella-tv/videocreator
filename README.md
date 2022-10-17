@@ -16,6 +16,7 @@ Media created by default is different frame rates and different SOM values.  The
 
 e.g. the default repo creates:
 
+```
 59.94 SOM 01
 50 SOM 01
 50 SOM 10
@@ -24,6 +25,7 @@ e.g. the default repo creates:
 25 SOM 01
 25 SOM 10
 29.97 (drop frame TC) SOM 01
+```
 
 By default, makemedia produces MXF files.  asmp4 changes a variable or two to produce .mp4 video (a lot smaller on disk).  Both have machine readable timecode.
 
