@@ -40,6 +40,14 @@ and the images swap every 30s.  The default repo uses black.png for both images.
 
 All media produced has 8 tracks of audio.  The audio has 20s of tone at the start, then a 'pip' every 30s from SOM onwards.
 
+## Slate:
+
+![image](https://user-images.githubusercontent.com/3137332/196199813-4b1b4ad7-5c42-4686-8815-fd18068cda11.png)
+
+## After SOM:
+
+![image](https://user-images.githubusercontent.com/3137332/196199999-73ab0a21-503c-4d45-91f3-992cb0e3d0f3.png)
+
 
 
 
