@@ -1,6 +1,6 @@
 # Test Video Creator
 
-This repo is a set of Windows bacth files and an ffmpeg executable
+This repo is a set of Windows batch files and an ffmpeg executable
 
 It's purpose is to create parameterised test media.
 
@@ -29,12 +29,14 @@ e.g. the default repo creates:
 
 By default, makemedia produces MXF files.  asmp4 changes a variable or two to produce .mp4 video (a lot smaller on disk).  Both have machine readable timecode.
 
-By default, all media has a 30s slate on the front with text5 describing the media.
+By default, all media has a 30s slate on the front with text describing the media.
 
 All media has running timecode burnt in, as well as real-time time, and frame count (from first frame of media).
 
 The background image after the slate is made from TWO PNG images in the images folder.  The images used are controlled using the batch variables `black` and `white`, 
 and the images swap every 30s.  The default repo uses black.png for both images.
+
+There are batch files for 90s, 15 min and 1 hour media.
 
 ## Audio:
 
